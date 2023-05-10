@@ -2,7 +2,7 @@
 
 ## Aula 1
 
-[Material da aula](https://colab.research.google.com/drive/14CDpLwlvTv4kb0y1IfjJtg8zd03kxTPl)
+[Material da aula](https://colab.research.google.com/drive/14CDpLwlvTv4kb0y1IfjJtg8zd03kxTPl) (clique em "Arquivo" e depois em "salvar cópia no Drive")
 
 [Lista de Exercícios](https://wiki.python.org.br/EstruturaSequencial)
 
