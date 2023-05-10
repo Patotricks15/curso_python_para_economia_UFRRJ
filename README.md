@@ -6,6 +6,10 @@
 
 [Lista de Exercícios](https://wiki.python.org.br/EstruturaSequencial)
 
-[Documentação da biblioteca random](https://docs.python.org/3/library/random.html)
+**Bônus:**
 
-[Documentação da biblioteca math](https://docs.python.org/3/library/math.html)
+- [Documentação da biblioteca random](https://docs.python.org/3/library/random.html)
+
+- [Documentação da biblioteca math](https://docs.python.org/3/library/math.html)
+
+## Aula 2
