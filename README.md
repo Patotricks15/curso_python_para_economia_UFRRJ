@@ -21,3 +21,14 @@
 
 - [Documentação da biblioteca statistics](https://docs.python.org/3/library/statistics.html)
 - [Documentação do Scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+
+## Aula 3
+
+[Material da aula](https://colab.research.google.com/drive/1CSOODWnVRGERSIKuyU3rEVV50y7_JK40#scrollTo=sC550iqh2oX9) (clique em "Arquivo" e depois em "salvar cópia no Drive")
+
+[Listas de Exercícios 1 - Condicionais -> if, elif, else](https://wiki.python.org.br/EstruturaDeDecisao)
+
+[Listas de Exercícios 2 - Repetição -> for i in ...](https://wiki.python.org.br/EstruturaDeDecisao)
+
+**Bônus:**
+- [Python Tutor](https://pythontutor.com/)
