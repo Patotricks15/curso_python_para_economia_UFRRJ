@@ -80,6 +80,8 @@
 
 [Documentação ipeadatapy](https://github.com/luanborelli/ipeadatapy) -> dados do IPEA (macroeconomia, regional e social)
 
+[Documentação Statsmodels](https://www.statsmodels.org/stable/index.html) -> Aplicar modelos de econometria
+
 [Documentação Geopandas](https://geopandas.org/en/stable/docs/user_guide.html) -> Criação de mapas
 
 [Curso gratuito de análise de dados espacial](https://www.kaggle.com/learn/geospatial-analysis)
