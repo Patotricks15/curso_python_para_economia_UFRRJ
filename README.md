@@ -108,6 +108,7 @@ São códigos prontos para você consultar. Eu recomendo imprimir e ter como uma
 [Seaborn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 
 ### Livros
+Recomendo para quem quiser entender melhor como o Python funciona. Obs: no livro eles não usam o Google Colab
 
 [Pasta contendo os livros](https://github.com/Patotricks15/curso_python_para_economia_UFRRJ/tree/main/livros)
 
