@@ -55,7 +55,7 @@
 
 ## Aula 5: Criando e lendo tabelas com Pandas
 
-[Material da aula 5](https://colab.research.google.com/drive/1H8obH1RAczWWk8gMm4H0bYsme7OQWa7u)
+[Material da aula 5](https://colab.research.google.com/drive/1H8obH1RAczWWk8gMm4H0bYsme7OQWa7u) (clique em "Arquivo" e depois em "salvar cópia no Drive")
 
 [Playlist de curso de Pandas (Programação Dinâmica)](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) -> recomendo demais, os vídeos são muito didáticos
 
@@ -72,7 +72,7 @@
 
 ## Aula 6: Bases de dados, econometria e mapas
 
-[Material da aula 6](https://colab.research.google.com/drive/1ywqxAyBx905TazxS91cy51FCvaqrzX0L)
+[Material da aula 6](https://colab.research.google.com/drive/1ywqxAyBx905TazxS91cy51FCvaqrzX0L) (clique em "Arquivo" e depois em "salvar cópia no Drive")
 
 [Documentação yfinance](https://pypi.org/project/yfinance/) -> dados do mercado financeiro
 
