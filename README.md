@@ -82,7 +82,32 @@
 
 [Documentação Statsmodels](https://www.statsmodels.org/stable/index.html) -> Aplicar modelos de econometria
 
+[Códigos prontos pra econometria](https://charleschangyangxu.medium.com/my-python-cheatsheet-for-econometrics-bffd9dd159c)
+
 [Documentação Geopandas](https://geopandas.org/en/stable/docs/user_guide.html) -> Criação de mapas
 
 [Curso gratuito de análise de dados espacial](https://www.kaggle.com/learn/geospatial-analysis)
+
+
+## Extra
+### Cheat Sheets
+São códigos prontos para você consultar. Eu recomendo imprimir e ter como uma apostila para consultar quando tiver dúvidas
+
+[Python](https://www.tunnelsup.com/python-cheat-sheet/)
+
+[Numpy](https://machinelearningmastery.com/wp-content/uploads/2022/04/cheatsheet.png)
+
+[Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+[Matplotlib iniciante](https://matplotlib.org/cheatsheets/_images/handout-beginner.png)
+
+[Matplotlib intermediário](https://matplotlib.org/cheatsheets/_images/handout-intermediate.png)
+
+[Matplotlib dicas](https://matplotlib.org/cheatsheets/_images/handout-tips.png)
+
+[Seaborn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+
+### Livros
+
+[Pasta contendo os livros](https://github.com/Patotricks15/curso_python_para_economia_UFRRJ/tree/main/livros)
 
